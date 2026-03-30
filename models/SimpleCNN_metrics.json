@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.45,
+  "auc": 0.6656,
+  "sensitivity": 0.4772,
+  "sensitivities_per_class": {
+    "normal": 0.4616,
+    "pneumonia": 0.6259,
+    "tuberculosis": 0.344
+  },
+  "model_name": "SimpleCNN"
+}

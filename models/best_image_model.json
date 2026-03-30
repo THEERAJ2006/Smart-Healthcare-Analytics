@@ -1,0 +1,17 @@
+{
+  "best_model": "SimpleCNN",
+  "results": {
+    "SimpleCNN": {
+      "accuracy": 0.45,
+      "auc": 0.6656,
+      "sensitivity": 0.4772,
+      "model_name": "SimpleCNN"
+    },
+    "MobileNetV2": {
+      "accuracy": 0.0,
+      "auc": 0.0,
+      "sensitivity": 0.0,
+      "model_name": "MobileNetV2"
+    }
+  }
+}
