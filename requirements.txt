@@ -13,3 +13,26 @@ streamlit>=1.32.0
 # Utilities
 matplotlib>=3.7.0
 seaborn>=0.12.0
+
+# ============================================================
+#  requirements.txt — Healthcare Analytics (Image Module)
+# ============================================================
+
+# Core ML
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Deep Learning
+tensorflow>=2.13.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# UI
+streamlit>=1.32.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
