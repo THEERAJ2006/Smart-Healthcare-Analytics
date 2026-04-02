@@ -1,4 +1,4 @@
-##🏥 Smart Healthcare Analytics System
+#🏥 Smart Healthcare Analytics System
 Integrated AI-Powered Clinical Decision Support Platform
 
 Overview:
