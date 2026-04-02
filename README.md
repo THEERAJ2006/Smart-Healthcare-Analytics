@@ -1,6 +1,7 @@
-🏥 Smart Healthcare Analytics System
+##🏥 Smart Healthcare Analytics System
 Integrated AI-Powered Clinical Decision Support Platform
-📌 Overview
+
+Overview:
 
 The Smart Healthcare Analytics System is a comprehensive, data-driven platform designed to enhance medical decision-making through the integration of Machine Learning, Natural Language Processing (NLP), Computer Vision, and Time-Series Forecasting.
 
